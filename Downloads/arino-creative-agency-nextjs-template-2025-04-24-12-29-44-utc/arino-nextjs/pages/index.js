@@ -1,0 +1,1 @@
+export default function Home() { return (<main><h1>Welcome to Arino Creative Agency</h1><p>Your Next.js deployment is working!</p></main>); } 
